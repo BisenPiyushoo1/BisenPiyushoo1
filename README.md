@@ -14,11 +14,14 @@
 ---
 
 ### 🛠 Languages & Tools
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg)
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg)
+![Java](https://skillicons.dev/icons?i=java
+)
+![Spring Boot](https://skillicons.dev/icons?i=spring
+)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Git](https://skillicons.dev/icons?i=git)
+![AWS](https://skillicons.dev/icons?i=aws
+)
 
 
 ---
