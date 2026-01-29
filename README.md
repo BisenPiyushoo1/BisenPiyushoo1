@@ -7,9 +7,23 @@
 ---
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/BisenPiyusho1)
+### 📫 Connect with me
+
+<a href="https://www.linkedin.com/in/your-linkedin">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/your-username">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://leetcode.com/your-id">
+  <img src="https://skillicons.dev/icons?i=leetcode" />
+</a>
+<a href="https://kaggle.com/your-id">
+  <img src="https://skillicons.dev/icons?i=kaggle" />
+</a>
 
 ---
 
