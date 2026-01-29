@@ -1,45 +1,33 @@
-##                                                                                  Hi 👋, I'm Piyush Bisen
+<h1 align="center">Hi 👋, I'm Your Name</h1>
 
-🎓 Java Backend Developer  
-💻 Spring Boot | REST APIs | Microservices | MySQL  
-🚀 Passionate about building scalable backend systems
-
----
-
-### 🌐 Connect with me
-### 📫 Connect with me
-
-<a href="https://www.linkedin.com/in/your-linkedin">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://github.com/your-username">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://leetcode.com/your-id">
-  <img src="https://skillicons.dev/icons?i=leetcode" />
-</a>
-<a href="https://kaggle.com/your-id">
-  <img src="https://skillicons.dev/icons?i=kaggle" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a>
+</p>
 
 ---
 
-### 🛠 Languages & Tools
-![Java](https://skillicons.dev/icons?i=java
-)
-![Spring Boot](https://skillicons.dev/icons?i=spring
-)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![AWS](https://skillicons.dev/icons?i=aws
-)
-
+### 🔗 Connect with me:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kaggle,instagram,hackerrank,github,leetcode" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BisenPiyusho1&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BisenPiyusho1&show_icons=true)
+### 🛠 Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,cpp,css,googlecloud,html,mysql,python,tensorflow" />
+</p>
+
+---
+
+### ☕ Support:
+<a href="https://www.buymeacoffee.com/yourname">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee" />
+</a>
+
+---
+
+### 📊 Most Used Languages:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" />
+</p>
