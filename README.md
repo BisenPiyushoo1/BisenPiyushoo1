@@ -1,4 +1,4 @@
-## Hi 👋, I'm Piyush Bisen
+##                                                                                  Hi 👋, I'm Piyush Bisen
 
 🎓 Java Backend Developer  
 💻 Spring Boot | REST APIs | Microservices | MySQL  
@@ -14,11 +14,12 @@
 ---
 
 ### 🛠 Languages & Tools
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?logo=spring)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%2361DAFB?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f0ff?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ---
 
